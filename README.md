@@ -251,18 +251,7 @@ cooling system. It will control the speed of cooling fan according to
 the system temperature. Also a LCD display can be mounted in the front
 provide information such as current and voltage to user.
 
-# Contribution of Group Members
 
-<div id="tab:example">
-
-| **Member**             | **Task**                                 |
-|:-----------------------|:-----------------------------------------|
-| EDIRISINGHE E.A.D.D.D. | Circuit Design and Testing               |
-| JANANDITH W.A.O        | Component Selection and Thermal Solution |
-| ABEYSINGHE D.U         | Enclosure Design                         |
-| HEWAGAMAGE K.L.N       | PCB Design                               |
-
-Contribution
 
 
 # Appendix
